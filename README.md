@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sachin ! <br/><a href="https://github.com/sachin078/Sachin">CyberSecuirty Engineer</a>, <a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Professional</a>
+<h1>Hi, I'm Sachin ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
