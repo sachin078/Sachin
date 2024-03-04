@@ -1,6 +1,8 @@
 Hi, I'm Sachin!
 Cybersecurity Professional
+
 👨‍💻 Cybersecurity Projects:
+
 KubeSEC: Securing webapp impleleted in kubernetes cluster
 
 Microsoft Azure: SIEM & SOAR Honeypot Project
