@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Splunk:Simplifying Splunk Deployment on AWS with Terraform and Ansible</b>
+  - [Splunk:Simplifying Splunk Deployment on AWS with Terraform and Ansible ](https://github.com/sachin078/Splunk-deployment-in-aws-using-terraform-and-ansible)
 - <b>KubeSEC: Securing webapp impleleted in kubernetes cluster</b>
   - [KubeSEC: Securing webapp impleleted in kubernetes cluster](https://github.com/sachin078/KubeSEC)
 - <b>Microsoft Azure: SIEM & SOAR Honeypot Project</b>
