@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Splunk:Simplifying Splunk Deployment on AWS with Terraform and Ansible</b>
-  - [Splunk:Simplifying Splunk Deployment on AWS with Terraform and Ansible ](https://github.com/sachin078/Splunk-deployment-in-aws-using-terraform-and-ansible)
+- <b>Splunk : Simplifying Splunk Deployment on AWS with Terraform and Ansible</b>
+  - [Splunk : Simplifying Splunk Deployment on AWS with Terraform and Ansible ](https://github.com/sachin078/Splunk-deployment-in-aws-using-terraform-and-ansible)
 - <b>KubeSEC: Securing webapp impleleted in kubernetes cluster</b>
   - [KubeSEC: Securing webapp impleleted in kubernetes cluster](https://github.com/sachin078/KubeSEC)
-- <b>Microsoft Azure: SIEM & SOAR Honeypot Project</b>
-  - [Microsoft Azure: SIEM & SOAR Honeypot Project](https://github.com/sachin078/Microsoft-Azure-Azure-Sentinel-SIEM-SOAR-) 
-- <b>PowerShell: File Integrity Monitoring Project</b>
-  - [PowerShell: File Integrity Monitoring Project](https://github.com/sachin078/PowerShell-FIM-Project)
+- <b>Microsoft Azure: SIEM & SOAR Honeypot </b>
+  - [Microsoft Azure: SIEM & SOAR Honeypot ](https://github.com/sachin078/Microsoft-Azure-Azure-Sentinel-SIEM-SOAR-) 
+- <b>PowerShell: File Integrity Monitoring </b>
+  - [PowerShell: File Integrity Monitoring ](https://github.com/sachin078/PowerShell-FIM-Project)
 - <b>Active Directory Lab Using PowerShell</b>
   - [Active Directory Lab Using PowerShell](https://github.com/sachin078/ActiveDirectory-lab-PowersShell)
 - <b>Vulnerability Management: Nessus Essentials</b>
