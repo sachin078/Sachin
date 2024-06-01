@@ -23,7 +23,7 @@
 - [Fortinet NSE 1, 2, 3](https://www.linkedin.com/in/sachin-prabakar/details/certifications/)
 
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=sachin078&theme=onedark](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord))](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord))](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> 🤳 Connect with me:</h2>
 
