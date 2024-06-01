@@ -4,9 +4,9 @@
 
 <h2> 🚀 Highlights:</h2>
 
-- [Threat Mitigation: Proactively hunted for Indicators of Compromise (IOC) and Advanced Persistent Threat (APT) tactics, contributing to a 55% reduction in potential security breaches.]
-- [Architecture Design: Designed and implemented a new security architecture, increasing data protection by 65%.]
-- [Incident Response: Orchestrated digital forensics for data breach investigations, reducing downtime by 30%, and remediating over 100 vulnerabilities.]</h3>
+-  Threat Mitigation: Proactively hunted for Indicators of Compromise (IOC) and Advanced Persistent Threat (APT) tactics, contributing to a 55% reduction in potential security breaches.
+-  Architecture Design: Designed and implemented a new security architecture, increasing data protection by 65%.
+-  Incident Response: Orchestrated digital forensics for data breach investigations, reducing downtime by 30%, and remediating over 100 vulnerabilities.</h3>
 
 <h2>👨‍💻 My Projects:</h2>
 
