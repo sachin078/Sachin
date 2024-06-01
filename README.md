@@ -30,10 +30,6 @@
 - [Fortinet NSE 1, 2, 3](https://www.linkedin.com/in/sachin-prabakar/details/certifications/)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin078&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <h2 align="left"> 🤳 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sachin-prabakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-prabakar/" height="30" width="40" /></a>
@@ -42,11 +38,13 @@
 
 <h2> GitHub Stats </h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin078&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin078&show_icons=true&locale=en&layout=compact" alt="sachin078" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin078&show_icons=true&locale=en" alt="sachin078" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin078&label=Profile%20views&color=0e75b6&style=flat" alt="sachin078" /> </p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
