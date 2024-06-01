@@ -32,15 +32,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin078&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Sachin Prabakar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/sachin-prabakar/
 
 
-
-<h3 align="left"> 🤳 Connect with me:</h3>
+<h2 align="left"> 🤳 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sachin-prabakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-prabakar/" height="30" width="40" /></a>
 <a href="https://medium.com/@sachin05prabakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sachin05prabakar" height="30" width="40" /></a>
