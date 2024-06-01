@@ -1,8 +1,5 @@
 <h1>Hi, I'm Sachin ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishk97&label=Profile%20views&color=0e75b6&style=flat" alt="harishk97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin078" alt="sachin078" /></a> </p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -25,9 +22,13 @@
 - [VMware NSX-T](https://www.linkedin.com/in/sachin-prabakar/details/certifications/U)
 - [Fortinet NSE 1, 2, 3](https://www.linkedin.com/in/sachin-prabakar/details/certifications/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin078&label=Profile%20views&color=0e75b6&style=flat" alt="sachin078" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin078" alt="sachin078" /></a> </p>
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sachin Prabakar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sachin-prabakar/
 
