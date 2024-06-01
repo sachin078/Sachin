@@ -35,7 +35,7 @@
 
 
 
-<h2>GitHub Stats</h2>
+<h2> GitHub Stats </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin078&show_icons=true&locale=en&layout=compact" alt="sachin078" /></p>
 
