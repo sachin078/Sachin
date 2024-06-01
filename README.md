@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sachin ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Splunk : Simplifying Splunk Deployment on AWS with Terraform and Ansible</b>
   - [Splunk : Simplifying Splunk Deployment on AWS with Terraform and Ansible ](https://github.com/sachin078/Splunk-deployment-in-aws-using-terraform-and-ansible)
