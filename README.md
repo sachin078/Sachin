@@ -1,5 +1,11 @@
-<h1>Hi, I'm Sachin ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
+<h1 align="center">Hi 👋🏼, I'm Sachin Prabakar ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
+  
+<h3 align="center">A proactive Cybersecurity Analyst with over 2 years of experience specializing in designing and implementing robust security architectures to safeguard against evolving threats. I'm passionate about fortifying organizational defenses and driving transformative security initiatives to ensure the utmost protection of digital assets.
 
+🚀 Highlights:
+- Threat Mitigation: Proactively hunted for Indicators of Compromise (IOC) and Advanced Persistent Threat (APT) tactics, contributing to a 55% reduction in potential security breaches.
+- Architecture Design: Designed and implemented a new security architecture, increasing data protection by 65%.
+- Incident Response: Orchestrated digital forensics for data breach investigations, reducing downtime by 30%, and remediating over 100 vulnerabilities.</h3>
 
 <h2>👨‍💻 My Projects:</h2>
 
