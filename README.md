@@ -1,5 +1,9 @@
 <h1>Hi, I'm Sachin ! <br/><a href="https://www.linkedin.com/in/sachin-prabakar/">Cybersecurity Engineer</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishk97&label=Profile%20views&color=0e75b6&style=flat" alt="harishk97" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin078" alt="sachin078" /></a> </p>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk : Simplifying Splunk Deployment on AWS with Terraform and Ansible</b>
